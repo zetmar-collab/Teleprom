@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Teleprom">
+  <rect width="256" height="256" rx="48" fill="#151923"/>
+  <circle cx="128" cy="128" r="96" fill="#202833"/>
+  <rect x="52" y="42" width="152" height="172" rx="16" fill="#f4f4ee"/>
+  <rect x="52" y="42" width="152" height="172" rx="16" fill="none" stroke="#20b2aa" stroke-width="12"/>
+  <rect x="82" y="82" width="92" height="14" rx="7" fill="#191919"/>
+  <rect x="82" y="120" width="92" height="14" rx="7" fill="#191919"/>
+  <rect x="82" y="158" width="92" height="14" rx="7" fill="#191919"/>
+  <path d="M100 214h56l16 28H84z" fill="#20b2aa"/>
+</svg>
